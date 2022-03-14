@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-* main- this functions prints 
+* main-this functions prints 
 *
 * Return: interger 0
 */
