@@ -4,7 +4,7 @@
  *
  * Return: size of
  */
-int main (void)
+int main(void)
 {
 	int i;
 	char d;
