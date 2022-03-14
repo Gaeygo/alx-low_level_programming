@@ -2,7 +2,6 @@
 /**
 * main- this functions prints 
 *
-* Description: 
 * Return: interger 0
 */
 int main(void)
