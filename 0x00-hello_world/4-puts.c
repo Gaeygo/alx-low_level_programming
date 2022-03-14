@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main returns a puts with an escaped apostrophe
+ * main-  returns a puts with an escaped apostrophe
  *
  * Return: 0
  */
