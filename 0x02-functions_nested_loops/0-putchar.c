@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "main.h"vi
+#include "main.h"
 /*
  * main- prints something
  *
