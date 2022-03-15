@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include "main.h"
-/*
- * main- prints something
- *
- * Return: 0
+/**
+  * main- prints something
+  *
+  * Return: 0
  */
-void main(void)
+int main(void)
 {
 	_putchar();
 }
