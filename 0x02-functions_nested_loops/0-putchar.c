@@ -5,8 +5,14 @@
   *
   * Return: 0
  */
+
+int _putchar(void)
+{
+	puts("_putchar");
+	return (0);
+}
+
 int main(void)
 {
 	_putchar();
-	return (0);
 }
