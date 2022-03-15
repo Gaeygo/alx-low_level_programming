@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "main.h"
+#include "main.h"vi
 /*
  * main- prints something
  *
@@ -8,4 +8,5 @@
 int main(void)
 {
 	_putchar();
+	return (0);
 }
