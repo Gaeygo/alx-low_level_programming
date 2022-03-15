@@ -5,8 +5,7 @@
  *
  * Return: 0
  */
-int _putchar(void)
+int main(void)
 {
-	printf("_putchar");
-	return (0);
+	_putchar();
 }
